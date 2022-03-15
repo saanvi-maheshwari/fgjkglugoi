@@ -1,0 +1,37 @@
+.heading{
+    font-size: 20px;
+    font-family: cursive;
+    width: 100%;
+    margin-top: 0;
+    /* position: fixed;
+    top:0; */
+}
+
+body{
+
+  background-size:cover;
+}
+
+.disks{
+    height: 200px;
+    width: 200px;
+}
+
+#volume{
+    float: right;
+    text-align: center;
+    margin-left: 20px;
+}
+
+#speed{
+    float: left;
+    text-align: center;
+    margin-left: 20px;
+}
+
+canvas{
+    border: 5px double violet;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
